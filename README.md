@@ -46,7 +46,7 @@ For the zero-shot setting, we used the original models with no further training.
 
 We have also made available [our source code](https://github.com/lmvasque/ls-prompt-tsar2022/tree/main/src) and 
 scripts (see below) for fine-tuning the selected models from scratch using prompt learning.
-You can also find additional scripts we used for [benchmarking the best models](https://github.com/lmvasque/ls-prompt-tsar2022-dev/tree/main/scripts/benchmark) and for running our selected configuration for the [final submissions runs](https://github.com/lmvasque/ls-prompt-tsar2022-dev/tree/main/scripts/submission). 
+You can also find additional scripts we used for [benchmarking the best models](https://github.com/lmvasque/ls-prompt-tsar2022/tree/main/scripts/benchmark) and for running our selected configuration for the [final submissions runs](https://github.com/lmvasque/ls-prompt-tsar2022/tree/main/scripts/submission). 
 
 ## Model fine-tuning (from scratch) & testing
 
