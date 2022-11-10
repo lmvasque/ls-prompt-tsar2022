@@ -29,7 +29,7 @@ We have released our pretrained models in HuggingFace, in the following links (c
 
 | Model Name                                                           | Run # |  Language   | Setting       |
 |----------------------------------------------------------------------|-------|:-----------:|---------------|
-| **[prompt-ls-en-1](https://huggingface.co/lmvasque/prompt-ls-en-1)** | **1** | **English** | **fine-tune** |
+| [prompt-ls-en-1](https://huggingface.co/lmvasque/prompt-ls-en-1)     | 1     |   English   | fine-tune |
 | [prompt-ls-en-2](https://huggingface.co/lmvasque/prompt-ls-en-2)     | 2     |   English   | fine-tune     |
 | [roberta-large](https://huggingface.co/roberta-large)                | 3     |   English   | zero-shot     |
 | [prompt-ls-es-1](https://huggingface.co/lmvasque/prompt-ls-es-1)     | 1     |   Spanish   | fine-tune     |
