@@ -2,7 +2,7 @@
 ## PromptLS: Prompt Learning for Lexical Simplification
 
 
-Official repository for the paper "UoM&MMU@TSAR-2022 Shared Task", a prompt-based learning approach for Lexical Simplification for the **Text Simplification, Accessibility, and Readability (TSAR-2022) Shared Task** 
+Official repository for the paper "[UoM&MMU at TSAR-2022 Shared Task — PromptLS: Prompt Learning for Lexical Simplification](https://drive.google.com/file/d/10nOMKuM62khIfRea8-XHdG6jsyMXsZtP/view?usp=share_link)", a prompt-based learning approach for Lexical Simplification for the **Text Simplification, Accessibility, and Readability (TSAR-2022) Shared Task** 
 by [@lmvasquezr](https://twitter.com/lmvasquezr), [@nguyenthnhung](https://twitter.com/nguyenthnhung), [@MattShardlow](https://twitter.com/MattShardlow) and [@SAnaniadou](https://twitter.com/SAnaniadou). 
 
 If you have any question, please don't hesitate to [contact us](mailto:lvasquezcr@gmail.com?subject=[GitHub]%20Investigating%20TS%20Eval%20Question). Feel free to submit any issue/enhancement in [GitHub](https://github.com/lmvasque/ts-explore/issues). 
@@ -109,12 +109,13 @@ python3 train.py --pretrained_model bert-base-uncased \
 
 ## Citation
 
-If you use our results and scripts in your research, please cite our work: "[UoM&MMU at TSAR-2022 Shared Task]()" (to be published) 
+If you use our results and scripts in your research, please cite our work: 
+"[UoM&MMU at TSAR-2022 Shared Task — PromptLS: Prompt Learning for Lexical Simplification](https://drive.google.com/file/d/10nOMKuM62khIfRea8-XHdG6jsyMXsZtP/view?usp=share_link)". 
 
 ```
 @inproceedings{vasquez-rodriguez-etal-2022-prompt-ls,
-    title = "UoM|MMU at TSAR-2022 Shared Task",
-    author = "V{|'a}squez-Rodr{|'|i}guez, Laura  and
+    title = "UoM\&MMU at TSAR-2022 Shared Task — PromptLS: Prompt Learning for Lexical Simplification",
+    author = "V{\'a}squez-Rodr{\'\i}guez, Laura  and
       Nguyen, Nhung T. H. and
       Shardlow, Matthew and
       Ananiadou, Sophia",
@@ -123,5 +124,4 @@ If you use our results and scripts in your research, please cite our work: "[UoM
     year = "2022",
 }
 ```
-
 
